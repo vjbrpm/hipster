@@ -1,0 +1,1 @@
+The embeddings can not be uploaded to github due to large file size. We supply a notebook to extract them instead. The extracted embeddings should be exported via torch.save(...) and placed here with the file name 'save.torch_save'.

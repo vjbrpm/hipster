@@ -1,0 +1,3 @@
+This folder contains embeddings and tokenizer extracted from https://huggingface.co/minishlab/potion-multilingual-128M. The tokenizer was additionally eddited manually. [PAD] and [UNK] tokens were removed and we set <pad> = 0 and <unk>=1 to match corresponding positions of those special tokens in embeddings.
+
+License of the original model was MIT (https://choosealicense.com/licenses/mit/).
